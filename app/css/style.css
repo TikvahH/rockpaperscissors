@@ -1,0 +1,106 @@
+body {
+  font-family: Andale Mono;
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  color: #696969;
+  margin: 3em;
+  padding: 0.1px;
+  border-style: solid; 
+  border: 80px: 80px: 80px 80px;
+  
+
+}
+
+p{
+  font-family: gill sans;
+}
+
+
+strong {
+  text-decoration: underline;
+}
+
+button {
+  background: white;
+  color: black;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  font-family: monospace;
+  font-weight: bold;
+}
+button:active {
+  background: white;
+}
+
+.scoreboard {
+  width: 14em;
+  margin: auto;
+  border: 1px solid #2A2A2A;
+  background-color: rgba(800,255,.7);
+  box-shadow: 0px 2px 2px 2px #909090;
+  border-radius: 5px;
+
+}
+.scoreboard h2 {
+  border-bottom: 1px solid #2A2A2A;
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+
+}
+.scoreboard table {
+  margin: 10px auto;
+  width: 100%;
+  border-collapse: collapse;
+ 
+}
+.scoreboard th, .scoreboard td {
+  text-align: center;
+}
+.scoreboard td {
+  font-size: 3em;
+  padding: 0 20px;
+ 
+}
+
+#status {
+  margin-top: 20px;
+}
+
+button{
+   opacity: ;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   button:hover {
+      opacity: 0.5;
+      }
+
+
+@media only screen and (min-width: 150px) and (max-width: 600px) {
+
+.body{
+  width: 90%;
+  font size: 95%;
+}
+
+.mainheader img{
+  width: 100%
+  height: auto;
+  margin: 2% 0;
+}
+
+
+
+
+}
+
+}
+
+
+
+
