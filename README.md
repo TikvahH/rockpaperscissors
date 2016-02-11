@@ -1,7 +1,8 @@
-# Rock Paper Scissors
+# Rock Paper Scissors - online game
 
-## Objectives
+Preview: http://rps.bitballoon.com/
 
-Link: http://rps.bitballoon.com/
+![My image](http://i.imgur.com/JyLl7rR.png)
+
 
 
